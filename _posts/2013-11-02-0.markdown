@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "逻辑大师的感性"
-date:   2013-11-03 19:42:50
+date:   2013-11-02 19:42:50
 categories: jekyll update
 ---
 
